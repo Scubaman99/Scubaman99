@@ -1,0 +1,45 @@
+%PDF-1.1
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
+3 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >> endobj
+4 0 obj << /Length 806 >> stream
+BT
+/F1 12 Tf
+14 TL
+72 750 Td
+(Alpha Project Instructions) Tj
+T* () Tj
+T* (1. Open your terminal.) Tj
+T* (2. Create a new folder named 'alpha' and move into it:) Tj
+T* (   mkdir alpha) Tj
+T* (   cd alpha) Tj
+T* (3. Create a new file named 'Apple' and add the following lines:) Tj
+T* (   #!/bin/sh) Tj
+T* (   date) Tj
+T* (4. Make the script executable:) Tj
+T* (   chmod +x Apple) Tj
+T* (5. Run the script to see the current date and time:) Tj
+T* (   ./Apple) Tj
+T* (6. Initialize a git repository and commit the file:) Tj
+T* (   git init) Tj
+T* (   git add Apple) Tj
+T* (   git commit -m "Add Apple script") Tj
+T* (7. Create a new repository on GitHub named 'alpha' and connect it:) Tj
+T* (   git remote add origin <your-repo-url>) Tj
+T* (8. Push the code to GitHub:) Tj
+T* (   git push -u origin main) Tj
+ET
+endstream endobj
+5 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001098 00000 n 
+trailer << /Size 6 /Root 1 0 R >>
+startxref
+1168
+%%EOF

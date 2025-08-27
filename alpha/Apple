@@ -1,0 +1,4 @@
+#!/bin/sh
+# Print the current date and time
+
+date
